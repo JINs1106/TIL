@@ -51,7 +51,7 @@
 
 - 중앙에서 버전을 관리. 파일을 받아서 사용
 
-- 원격저장소를 통해 협업. 모든 히스토리(과거버전)를 클라잍언트들이 공유
+- 원격저장소를 통해 협업. 모든 히스토리(과거버전)를 클라이언트들이 공유
 
   
 
@@ -109,7 +109,7 @@
       $ git init
       ```
 
-  - $ git add <file> :  working directory 상의 변경 내용을 staging area에 추가
+  - $ git add  <file> :  working directory 상의 변경 내용을 staging area에 추가
   
     - untracked, modified 상태의 파일을 staged로 변경
     
