@@ -90,12 +90,3 @@ session.selectOne;
 ...
 </select>
 ```
-
-
-
-
-
-
-
-
-
