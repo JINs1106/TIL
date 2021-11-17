@@ -1,6 +1,4 @@
-#  Day 4
-
-
+#  Spring_mybatis
 
 ---
 
@@ -100,5 +98,4 @@
 | resultType                             | xxxVO -> int / String             |
 | -------------------------------------- | --------------------------------- |
 | parameterType / 한가지 변수만 사용가능 | xxxVO -> int / String / **int[]** |
-
 

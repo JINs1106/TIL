@@ -1,6 +1,4 @@
-# Day 4
-
-
+# Javascript_library
 
 ---
 
@@ -92,5 +90,4 @@ document.getElementById("aa").onclick = 함수;
 - DOM 레벨0 ---> 인라인 / 고전 이벤트 모델
   - 인라인 이벤트모델
   - 고전 이벤트모델
-
 
