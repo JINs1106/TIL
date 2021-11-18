@@ -1,6 +1,4 @@
-# Day 1
-
-
+# Java_JDBC_Basic
 
 ---
 
@@ -135,12 +133,5 @@ emp 테이블의 모든 레코드 조회 sql 결과 검색
 
   - 자바 <---  JDBC <---  DB값
   - 자바 <---  파일 입력(java.io.FileReader) <---  파일 값
-
-
-
-
-
-
-
 
 

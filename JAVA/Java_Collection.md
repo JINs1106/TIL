@@ -1,6 +1,4 @@
-# Day8. 컬랙션 프레임워크, GENERIC
-
-
+# Java_Collection
 
 ---
 

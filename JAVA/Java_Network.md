@@ -1,6 +1,4 @@
-# Day10. 네트워크 기능
-
-
+# Java_Network
 
 ---
 

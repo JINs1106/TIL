@@ -1,7 +1,6 @@
 <h1>
-    Day7. 예외처리, 자바 라이브러리
+    Java_Exception
 </h1>
-
 
 ---
 

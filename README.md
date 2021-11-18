@@ -12,7 +12,7 @@
 
 **start**  21년 7월 멀티캠퍼스 국비지원 교육과정으로 입문 :star:
 
-
+**end**  21년 11월 4일 교육수료
 
 
 
@@ -23,7 +23,7 @@
 - Markdown
 - JAVA
 - GIT
-
+- Python
 - (추후 업데이트)
 
 
@@ -37,23 +37,30 @@
 
 ### JAVA
 
-- DAY1
-- DAY2
-- DAY3
-- DAY4
-- DAY5
-- DAY6
-- DAY7
+- Collection
 
+- Exception
 
+- JDBC
 
+- Network
 
+- Sql
+
+- Input / Output
+
+  
 
 ### Git
 
-- 
--  
-- 
+- Basic
+
+
+
+### Python
+
+- Basic
+- Crawling
 
 
 
