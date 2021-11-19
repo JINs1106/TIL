@@ -24,6 +24,9 @@
 - JAVA
 - GIT
 - Python
+- WEB_3( HTML / CSS / Javascript )
+- Spring
+- SQL
 - (추후 업데이트)
 
 
@@ -64,3 +67,9 @@
 
 
 
+WEB_3
+
+- HTML_Basic
+- CSS_Basic
+- Javascript_Basic
+- J-query_Basic
