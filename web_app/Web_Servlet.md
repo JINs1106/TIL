@@ -1,6 +1,4 @@
-# Day 1
-
-
+# Web_Servlet
 
 ---
 
@@ -11,10 +9,6 @@
 | 브라우저가 해석하고 실행               | 브라우저의 요청을 받아 실행             |
 | html  /  css  /  javascript  /  jquery | servler  /  jsp  /  php  /  asp  /  cgi |
 | 한정 - db 이용 기술                    |                                         |
-
-
-
-
 
 
 
@@ -128,10 +122,3 @@
 
 
  
-
-
-
-
-
-
-
