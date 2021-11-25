@@ -40,10 +40,9 @@
 - 퍼스팩티브(perspective) : 프로젝트 개발 시 유용하게 사용할 수 있는 view를 묶어 이름을 붙여 놓은 것
   -  java, javaEE, git 등등
 - 뷰(view) : 이클립스 내부에서 사용되는 작은 창(console view)
-
-
-
-
+- 바이트 코드 파일(.class) ---> **JVM** 로 기계어로 번역 실행
+- 자바 프로젝트 - src - package ---> 소스 파일  // 바이트 코드 파일 ===> bin 폴더 내부에 생성
+  - 실행 : run as - java application ===> Console 창에서 실행 **OR** 명령프롬프트 창에서 실행
 
   
 
