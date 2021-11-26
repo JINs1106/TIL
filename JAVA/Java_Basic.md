@@ -37,14 +37,53 @@
 ### Basic
 
 - 워크스페이스 : 프로젝트 폴더가 저장, 개발 환경 정보와 관련된 메타 데이터(.metadata)가 동시 저장
+
 - 퍼스팩티브(perspective) : 프로젝트 개발 시 유용하게 사용할 수 있는 view를 묶어 이름을 붙여 놓은 것
+
   -  java, javaEE, git 등등
+
 - 뷰(view) : 이클립스 내부에서 사용되는 작은 창(console view)
+
 - 바이트 코드 파일(.class) ---> **JVM** 로 기계어로 번역 실행
+
 - 자바 프로젝트 - src - package ---> 소스 파일  // 바이트 코드 파일 ===> bin 폴더 내부에 생성
+
   - 실행 : run as - java application ===> Console 창에서 실행 **OR** 명령프롬프트 창에서 실행
 
   
+
+### 명령라인 실습
+
+- Java workspace에서 cmd 실행 / dir(파일 목록), tree /f(파일 관계도)
+
+- 컴파일
+
+  ```cmd
+  javac -d bin src/소스경로/*.java ---> 컴파일 실행
+  ```
+
+- 실행
+
+  ```cmd
+  java -cp bin sec03.exam01.Hello  ---> 자바파일 실행 (JDK8 이전)
+  
+  java -p bin -m chap01/sec03.exam01.Hello  ---> JDK11 이후 버전
+  ```
+  
+  
+  
+### Module(모듈)
+> 외부에서 재사용할 수 있는 패키지들의 묶음(다른 프로그램에서 사용 가능)
+>
+> 이클립스의 프로젝트는 **하나의 모듈**을 개발하는 것
+
+  
+
+  
+
+  
+
+
 
 
 
